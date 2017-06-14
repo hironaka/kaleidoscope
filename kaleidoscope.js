@@ -158,7 +158,7 @@ var kaleidoscope = function() {
 
     var anim_id = 0;
 
-    var rect = 160, len, ox, oy;
+    var rect = 320, len, ox, oy;
 
     if (opts.shape === 'square') {
       len = Math.sin(Math.PI/4) * rect;
